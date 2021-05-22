@@ -1,0 +1,21 @@
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+<div class="card">
+    <div class="card-header">Welcome to Website</div>
+</div>
+<style>
+    label, input {
+        display: block;
+    }
+    span.helptext {
+        display: none;
+    }
+    .px-2 {
+  padding-left: $spacer * .10 !important;
+  padding-right: $spacer * .10 !important;
+    }
+</style>
+
+{% block content %}
+{% csrf_token %}
+{% endblock %}
