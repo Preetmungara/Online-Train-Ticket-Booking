@@ -6,7 +6,6 @@
     {% csrf_token %}
 
     <div style="padding-left: 15px;">
-        <h2>Ticket Confirmation</h2>
         <h3>Your Ticket has been confirmed!</h3>
         <h3>Thank You!</h3>
         <h3>Bill Details</h3>
@@ -14,6 +13,7 @@
         <button type="button" class="btn btn btn-dark" data-toggle="modal" data-target="#myModal">
             Bill Details
         </button>
+        <button type="Submit" class="btn btn-dark">Okay</button>
     </div>
    
 
@@ -46,16 +46,14 @@
 
                 <!-- Modal footer -->
                 <div class="modal-footer">
-                    <button type="button" class="btn btn-success" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-dark" data-dismiss="modal">Close</button>
                 </div>
 
             </div>
         </div>
     </div>
 
-            <div class="text-center">
-                <button type="Submit" class="btn btn-dark">OK</button>
-            </div>
+            
 
 
 </form>
