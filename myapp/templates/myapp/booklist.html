@@ -1,7 +1,7 @@
 {% extends 'myapp/base.html' %}
 {% block content %}
 <h3>{{msg}}</h3>
-<h2>List of Trains</h2>
+<h2 style="padding-left:5px">List of Trains</h2>
 <table class="table table-striped">
     <thead style="background-color: darkgrey;color: white;">
     <td>BOOKING ID</td>
@@ -36,7 +36,7 @@
     {% endfor %}
 </table>
 <form action="{% url 'cancellings' %}" method="post">
-    <h3>Choose Train to book</h3>
+    <h3 style="padding-left:5px">Choose Train to book</h3>
     {% csrf_token %}
     <div class="col-auto">
         <label for="example-email-input" class="col-2 col-form-label">Train ID</label>
