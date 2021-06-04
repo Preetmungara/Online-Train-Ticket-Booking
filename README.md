@@ -27,33 +27,33 @@
 ---
 
 
-![ScreenShot](./UI/login.PNG)
+![ScreenShot](UI/login.PNG)
 
 ## **Login Successful**
 
 ---
 
 
-![ScreenShot](./UI/login_success.PNG)
+![ScreenShot](UI/login_success.PNG)
 
 ## **Home Page**
 ---
 
-![ScreenShot](./UI/dash.PNG)
+![ScreenShot](UI/dash.PNG)
 
 ## **Register Page**
 
 ---
 
 
-![ScreenShot](./UI/reg.PNG)
+![ScreenShot](UI/reg.PNG)
 
 ## **Registration Successful**
 
 ---
 
 
-![ScreenShot](./UI/reg_success.PNG)
+![ScreenShot](UI/reg_success.PNG)
 
 
 ## **Find Train**
@@ -61,7 +61,7 @@
 ---
 
 
-![ScreenShot](./UI/find_train.PNG)
+![ScreenShot](UI/find_train.PNG)
 
 
 ## **List of Trains & Select Train**
@@ -69,7 +69,7 @@
 ---
 
 
-![ScreenShot](./UI/list_train.PNG)
+![ScreenShot](UI/list_train.PNG)
 
 
 ## **Ticket Confirmation**
@@ -77,7 +77,7 @@
 ---
 
 
-![ScreenShot](./UI/confirm.PNG)
+![ScreenShot](UI/confirm.PNG)
 
 
 ## **Ticket Details**
@@ -85,7 +85,7 @@
 ---
 
 
-![ScreenShot](./UI/bill_details.PNG)
+![ScreenShot](UI/bill_details.PNG)
 
 
 ## **Cancel Ticket**
@@ -93,7 +93,7 @@
 ---
 
 
-![ScreenShot](./UI/before_del.PNG)
+![ScreenShot](UI/before_del.PNG)
 
 
 ## **After Canceling Ticket**
@@ -101,7 +101,7 @@
 ---
 
 
-![ScreenShot](./UI/after_del.PNG)
+![ScreenShot](UI/after_del.PNG)
 
 ---
 
@@ -111,4 +111,4 @@
 ---
 
 
-![ScreenShot](./UI/after_logout.PNG)
+![ScreenShot](UI/after_logout.PNG)
